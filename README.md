@@ -1,2 +1,2 @@
 # hello-world
-just a hello world repo
+Hi i'm suhas, i am here to learn coding
